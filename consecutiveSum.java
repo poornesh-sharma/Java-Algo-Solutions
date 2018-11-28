@@ -2,7 +2,10 @@ class consecutiveSum {
     public static void main(String[] args) {
         long num = 15;
         // Function calling
-        System.out.print(consecutive(num));
+        // System.out.print(consecutive(num));
+
+        int a[][] = new int[3][];
+        System.out.print(a[0]);
     }
 
     public static int consecutive(long num) {
